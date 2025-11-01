@@ -74,7 +74,7 @@
       "type": "section-anchor-logo",
       "name": "Logo",
       "settings": {
-        "logo": "shopify://shop_images/logo_03.png",
+        "logo": "shopify://shop_images/logo_02.svg",
         "padding_top": 5,
         "padding_bottom": 0
       }

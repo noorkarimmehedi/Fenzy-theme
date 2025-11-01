@@ -34,7 +34,7 @@
     "type_body_size": 100,
     "type_nav_font": "heading",
     "type_nav_caps": true,
-    "btn_primary_bg_color": "#000000",
+    "btn_primary_bg_color": "#300000",
     "btn_primary_border_color": "#000000",
     "grid_style": "classic",
     "dots_style": "hidden",

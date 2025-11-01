@@ -43,7 +43,7 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/571990413_122095951017098627_6840669236288024142_n.jpg",
+            "image": "shopify://shop_images/image.png",
             "overlay_opacity": 15,
             "overlay_color": "#000000",
             "show_overlay_text": false,

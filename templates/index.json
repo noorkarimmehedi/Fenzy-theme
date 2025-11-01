@@ -41,14 +41,14 @@
         },
         "slideshow-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/571990413_122095951017098627_6840669236288024142_n.jpg",
             "overlay_opacity": 15,
             "overlay_color": "#000000",
             "show_overlay_text": false,
-            "title": "Knitted",
+            "title": "A STORY",
             "heading_size": 7,
-            "description": "With Stories...",
+            "description": "NEVER BE TOLD",
             "text_size": 10,
             "flex_align": "align--middle-center",
             "bg_color": "",
@@ -69,7 +69,9 @@
         },
         "slideshow-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/571990413_122095951017098627_6840669236288024142_n.jpg",
             "overlay_opacity": 20,
             "overlay_color": "#000000",
             "show_overlay_text": true,
